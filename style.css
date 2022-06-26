@@ -7,6 +7,7 @@
 body{
     background-color: rgb(38, 165, 212);
     color: white;
+    /* height: 100vh; */
     }
 
 .main-div{
@@ -284,11 +285,13 @@ body{
     /* height: 20vh; */
     position: relative;
     bottom: 600px;
-    padding: 50px 20px;
+    padding: 50px 100px;
     width: 75%;
     margin: auto;
+    /* background-color: black; */
     /* text-align: center; */
-    /* background-color: seagreen; */
+    background-color: goldenrod;
+    border-radius: 30px;
 }
 
 .footer-div a{
